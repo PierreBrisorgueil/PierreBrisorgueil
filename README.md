@@ -25,7 +25,7 @@ Our goal is to <span style="color:#d35400">**save you time**</span> and therefor
 ```Node, Swift, Angular, Vue, React, Go```<br />
 ```Docker, Rancher, Kubernetes, GCloud, Ovh```<br />
 ```Photoshop, Sketch, Affinity, iMovie```<br />
-```Zapier, Ghost, iftt```<br />
+```Zapier, Ghost, iftt, Later```<br />
  
 ### :link: Socials 
  
