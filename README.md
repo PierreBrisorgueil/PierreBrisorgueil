@@ -22,10 +22,11 @@ Our goal is to <span style="color:#d35400">**save you time**</span> and therefor
 
 ### :package: Tools/Tech
 
+```Github, Gogs, Coveralls, CodeClimate, Dependabot, Snyk, Tavis, Drone, Docker```<br />
 ```Node, Swift, Angular, Vue, React, Go```<br />
 ```Docker, Rancher, Kubernetes, GCloud, Ovh```<br />
 ```Photoshop, Sketch, Affinity, iMovie```<br />
-```Zapier, Ghost, iftt, Later```<br />
+```Zapier, Ghost, iftt, Later, slack, discord```<br />
  
 ### :link: Socials 
  
