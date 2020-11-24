@@ -32,7 +32,15 @@ Our goal is to <span style="color:#d35400">**save you time**</span> and therefor
  
 <p>
 
-[![Mail](https://badges.weareopensource.me/badge/Contact-by%20Mail-1abc9c.svg?style=flat-square)](mailto:pierre@weareopensource.me) [![Linkedin](https://badges.weareopensource.me/badge/Add-on%20linkedin-006DA9.svg?style=flat-square)](https://www.linkedin.com/in/pierre-brisorgueil/) [![Github](https://badges.weareopensource.me/badge/Follow-on%20Github-282828.svg?style=flat-square)](https://github.com/PierreBrisorgueil) [![Twitter](https://badges.weareopensource.me/badge/Follow-on%20Twitter-3498db.svg?style=flat-square)](https://twitter.com/pbrisorgueil?lang=fr) [![Instagram](https://badges.weareopensource.me/badge/Follow-on%20Instagram-f27231.svg?style=flat-square)](https://www.instagram.com/pierre_brsrgl/) [![Youtube](https://badges.weareopensource.me/badge/Watch-on%20Youtube-e74c3c.svg?style=flat-square)](https://www.youtube.com/channel/UCIIjHtrZL5-rFFupn7c3OtA) [![Cofee](https://badges.weareopensource.me/badge/Buy-a%20Coffee-FF813F.svg?style=flat-square)](https://ko-fi.com/weareopensource)
+[![Mail](https://badges.weareopensource.me/badge/Contact-Mail-1abc9c.svg?style=flat-square)](mailto:pierre@weareopensource.me) 
+[![Linkedin](https://badges.weareopensource.me/badge/Add-Linkedin-006DA9.svg?style=flat-square)](https://www.linkedin.com/in/pierre-brisorgueil/) 
+[![Github](https://badges.weareopensource.me/badge/Follow-Github-282828.svg?style=flat-square)](https://github.com/PierreBrisorgueil) 
+[![Twitter](https://badges.weareopensource.me/badge/Follow-Twitter-3498db.svg?style=flat-square)](https://twitter.com/pbrisorgueil?lang=fr) 
+[![Instagram](https://badges.weareopensource.me/badge/Follow-Instagram-f27231.svg?style=flat-square)](https://www.instagram.com/pierre_brsrgl/) 
+[![Youtube](https://badges.weareopensource.me/badge/Watch-Youtube-e74c3c.svg?style=flat-square)](https://www.youtube.com/channel/UCIIjHtrZL5-rFFupn7c3OtA) 
+[![Cofee](https://badges.weareopensource.me/badge/Sponsor-Coffee-FF813F.svg?style=flat-square)](https://ko-fi.com/weareopensource)
+[![Cofee](https://badges.weareopensource.me/badge/Sponsor-Open%20Collective-297eff.svg?style=flat-square)](https://opencollective.com/weareopensource)
+
 
 </p>
 
