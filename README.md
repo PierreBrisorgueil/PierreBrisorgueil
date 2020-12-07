@@ -5,7 +5,7 @@
 <p>
 Starting with a double degree, Business-Engineer, to become DataViz Manager for Big Data at SocGen and self-entrepreneur. Today I'm currently working on an entrepreneurship project about data and automation. 
 
-Passionate about management and innovation with an interest in IT. The impact of the user experience on customers is at the heart of my concerns. 
+Passionate about management and innovation with interest in IT. The impact of the user experience on customers is at the heart of my concerns.concerns. 
 </p>
 
 <details><summary>More informations ...</summary>
@@ -14,13 +14,13 @@ Passionate about management and innovation with an interest in IT. The impact of
   
 #### [WeAreOpenSource](https://weareopensource.me)
 
-WAOS"s goal is to simplify the **start** of new **tech projects** / **startups**. As we know It must be **fast**, **efficient** while **avoiding the refactor** afterward. So through the creation of [Open-Source](https://github.com/weareopensource) **stacks** / **tools** or the writing of **articles**, we **share our knowledge** around this subject. <br />
-[We](https://blog.weareopensource.me/us/) dream to create stacks **back/fronts**, **aligns on feats** & **architecture**, in multiple languages. Allowing anyone to **create full-stack** on demand ([VueJS](https://github.com/weareopensource/Vue), [Node](https://github.com/weareopensource/Node), [Swift](https://github.com/weareopensource/Swift) [...](https://github.com/weareopensource)) and keep it updated, while exploring scalable deployment, or tips like growth hacking via our [articles](https://blog.weareopensource.me).
+WAOS"s goal is to simplify the **start** of new **tech projects**/**startups**. As we know, It must be **fast**, **efficient** while **avoiding the refactor** afterward. So through the creation of [Open-Source](https://github.com/weareopensource) **stacks**/**tools** or **articles**, we **share our knowledge** around this subject. <br />
+[We](https://blog.weareopensource.me/us/) dream of creating stacks **back/fronts**, **aligns on feats** & **architecture**, in multiple languages. We are allowing anyone to generate **create full-stack** on demand ([VueJS](https://github.com/weareopensource/Vue), [Node](https://github.com/weareopensource/Node), [Swift](https://github.com/weareopensource/Swift) [...](https://github.com/weareopensource)) and keep it updated while exploring scalable deployment or tips like growth hacking via our [articles](https://blog.weareopensource.me).
 
 #### [Comes.io](https://comes.io)
 
-Like a travel agency for your <span style="color:#d35400">**weekends**</span> and <span style="color:#d35400">**hobbies**</span>, we will <span style="color:#d35400">**monitor**</span> your perfect <span style="color:#d35400">**conditions**</span> and <span style="color:#d35400">**alert**</span> you when all are met. Never miss wonderful moments again, discovery or family weekends, and spot the perfect days for surfing, skiing, golfing, fishing ... <br/>
-Our goal is to <span style="color:#d35400">**save you time**</span> and therefore maximize your life enjoyment. Everything is <span style="color:#d35400">**tailor-made**</span> for your needs, configured by yourself at a <span style="color:#d35400">**lower cost**</span>. For this purpose, we are focused on the quality of the <span style="color:#d35400">**user experience**</span> and <span style="color:#d35400">**intelligence**</span> of our alerts.
+Like a travel agency for your <span style="color:#d35400">**weekends**</span> and <span style="color:#d35400">**hobbies**</span>, we will <span style="color:#d35400">**monitor**</span> your perfect <span style="color:#d35400">**conditions**</span> and <span style="color:#d35400">**alert**</span> you when all are met. Never miss wonderful moments again, discovery or family weekends, and spot the ideal days for surfing, skiing, golfing, fishing ... <br/>
+Our goal is to <span style="color:#d35400">**save you time**</span> and therefore maximize your life enjoyment. Everything is <span style="color:#d35400">**tailor-made**</span> for your needs, configured by yourself at a <span style="color:#d35400">**lower cost**</span>. For this purpose, we are focused on the quality of our alerts' <span style="color:#d35400">**user experience**</span> and <span style="color:#d35400">**intelligence**</span>.
 
 ### :package: Tools/Tech
 
